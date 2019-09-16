@@ -8,4 +8,4 @@ Here's a running list of football-related posts which I either have, or plan to 
 - [Using ESPN's (new) API](https://stmorse.github.io/journal/espn-fantasy-v3.html).  Most code in blog, some additional in `lucky_drop.ipynb`.
 - [Checking ESPN's Fantasy Projections](https://stmorse.github.io/journal/espn-fantasy-projections.html).  Code in blog.
 - [Scraping ProFootball Reference](https://stmorse.github.io/journal/pfr-scrape-python.html). Code in blog.
-- [Measuring Fantasy Roster Skill]().  Code in `roster_management_clean.ipynb`.
+- [Measuring Fantasy Roster Skill](https://stmorse.github.io/journal/fantasy-bench.html).  Code in `roster_management_clean.ipynb`.
